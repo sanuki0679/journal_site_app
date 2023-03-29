@@ -9,7 +9,7 @@
 <body>
     <h1>論文詳細</h1>
     <p>
-        <b>タイトル：{{ $article->title }}</b>
+        <h2><b>タイトル：{{ $article->title }}</b></h2>
     </p>
 
     <p>
