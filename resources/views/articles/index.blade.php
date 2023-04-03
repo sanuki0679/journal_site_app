@@ -19,6 +19,7 @@
     </ul>
     <!-- 新規登録画面へジャンプする -->
     <a href="/articles/create">投稿する</a>
+    
 </body>
 
 </html>

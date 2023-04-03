@@ -35,7 +35,7 @@ class ArticleController extends Controller
         $article->save();
 
         // 登録したらindexに戻る
-        return redirect('/articles);
+        return redirect('/articles');
     
         //
     }
